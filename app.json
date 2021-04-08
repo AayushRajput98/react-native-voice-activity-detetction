@@ -1,0 +1,12 @@
+{
+  "name": "VAD-test",
+  "displayName": "VAD-test",
+  "expo": {
+    "name": "VAD-test",
+    "slug": "VAD-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
